@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 4
+names: ['id card', 'pant', 'shirt', 'shoes']
+
+roboflow:
+  workspace: sridhar-sanapala-4tunp
+  project: sitam_uniform_detection1-atpmi
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/sridhar-sanapala-4tunp/sitam_uniform_detection1-atpmi/dataset/2
