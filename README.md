@@ -9,7 +9,7 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Production%20Ready-success.svg)]()
 
-**Developed by [KSP Electronics](https://kspelectronics.com)**
+**Developed by [KSP Electronics](https://kspelectronics.in)**
 
 *Real-time computer vision system for automated uniform compliance verification in educational institutions*
 
@@ -548,7 +548,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **KSP Electronics Team**
 - Lead Developer: [Sai Preetham](https://github.com/Saipreetham0)
-- Organization: [KSP Electronics](https://kspelectronics.com)
+- Organization: [KSP Electronics](https://kspelectronics.in)
 
 ## 🙏 Acknowledgments
 
@@ -561,8 +561,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For technical support or inquiries:
 
-- 📧 Email: support@kspelectronics.com
-- 🌐 Website: [kspelectronics.com](https://kspelectronics.com)
+- 📧 Email: support@kspelectronics.in
+- 🌐 Website: [kspelectronics.in](https://kspelectronics.in)
 - 💬 GitHub Issues: [Report a bug](https://github.com/Saipreetham0/dress_code/issues)
 - 📱 WhatsApp: +91-XXXXXXXXXX
 
@@ -574,7 +574,7 @@ If this project helped your institution, please give it a ⭐ on GitHub!
 
 <div align="center">
 
-**Made with ❤️ by [KSP Electronics](https://kspelectronics.com)**
+**Made with ❤️ by [KSP Electronics](https://kspelectronics.in)**
 
 *Empowering Educational Institutions with Smart Technology*
 
