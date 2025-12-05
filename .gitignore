@@ -1,0 +1,44 @@
+# Claude Code files (hidden from GitHub)
+.claude/
+CLAUDE.md
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+ENV/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Project specific - temporary files
+static/result_*
+uploads/*
+!uploads/.gitkeep
+training_data/.DS_Store
+
+# Model cache (keep only trained models)
+runs/detect/
+runs/segment/
+runs/debug/
+
+# Temporary/log files
+*.log
+*.tmp
